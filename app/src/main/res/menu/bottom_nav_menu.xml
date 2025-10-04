@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ocr_demo"
+        android:icon="@drawable/ic_camera_24dp"
+        android:title="@string/menu_item_ocr_demo" />
+
+    <item
+        android:id="@+id/navigation_ml_kit_translation_demo"
+        android:icon="@drawable/ic_dashboard_24dp"
+        android:title="@string/menu_item_ml_kit_translation_demo" />
+
+</menu>

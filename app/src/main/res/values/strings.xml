@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCR Playground</string>
+
+    <string name="title_ml_kit_translation_demo">Translation Demo</string>
+    <string name="menu_item_ml_kit_translation_demo">Translation</string>
+
+    <string name="title_ocr_demo">OCR Demo</string>
+    <string name="menu_item_ocr_demo">OCR</string>
+</resources>

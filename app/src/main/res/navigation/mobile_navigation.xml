@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_ocr_demo">
+
+    <fragment
+        android:id="@+id/navigation_ml_kit_translation_demo"
+        android:name="com.amaxsoftware.ocrplayground.fragments.mlkittranslationdemo.MLKitTranslationDemoFragment"
+        android:label="@string/title_ml_kit_translation_demo" />
+    <fragment
+        android:id="@+id/navigation_ocr_demo"
+        android:name="com.amaxsoftware.ocrplayground.fragments.ocrdemo.OCRDemoFragment"
+        android:label="@string/title_ocr_demo" />
+</navigation>
