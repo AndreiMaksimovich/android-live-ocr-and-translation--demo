@@ -4,7 +4,7 @@ This repository is a technical demo showcasing offline live **OCR (Optical Chara
 
 It combines **Google ML Kit Text Recognition V2** for high-quality OCR with **Tesseract** OCR as a fallback, and uses **Google ML Kit Translation** for live, offline, on-device translation.
 
-![Video](./video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/AndreiMaksimovich/android-live-ocr-and-translation--demo/main/video.jpg)](https://raw.githubusercontent.com/AndreiMaksimovich/android-live-ocr-and-translation--demo/main/video.mp4)
 
 ### Technologies Used:
 * Google ML Kit Text Recognition V2: https://developers.google.com/ml-kit/vision/text-recognition/v2
